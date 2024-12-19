@@ -1,0 +1,9 @@
+../Core/Src/nmea.c:11:5:Checksum_NMEA	4
+../Core/Src/nmea.c:35:7:Get_Talker_ID	1
+../Core/Src/nmea.c:51:7:Get_Mode	1
+../Core/Src/nmea.c:70:7:Get_UTCTime	14
+../Core/Src/nmea.c:117:7:Get_Latitude	13
+../Core/Src/nmea.c:176:7:Get_Longitude	13
+../Core/Src/nmea.c:239:7:Get_Altitude	7
+../Core/Src/nmea.c:282:7:Get_UTCDate	8
+../Core/Src/nmea.c:351:5:is_NMEA	6
